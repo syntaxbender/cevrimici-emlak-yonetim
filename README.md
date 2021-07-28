@@ -1,5 +1,10 @@
 # BMB306 Yazılım Mühendisliği Çevrimiçi Emlak Yönetimi Ödevi
 
+## Dipnot
+
+- Kısıtlı zamana sahip olan bir ödev olduğu için kod kalitesi çok düşüktür.
+- Uygulamanın server side tarafı, API katmanı, dolaylı olarak input validation kontrolleri mevcut değildir. Uzak bir mysql sunucusuna doğrudan client side bir uygulama ile bağlantı sağlanıldığı bir senaryo olarak baz alınmıştır. Güvenli yazılım geliştirme metodları hakgetiredir.
+
 ## Gereksinimler
   - MySQL Server
   - Eclipse IDE
