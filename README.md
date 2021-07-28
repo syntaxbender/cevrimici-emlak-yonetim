@@ -1,4 +1,4 @@
-# cevrimici-emlak-yonetim
+# BMB306 Yazılım Mühendisliği Çevrimiçi Emlak Yönetimi Ödevi
 
 ## Gereksinimler
   - MySQL Server
