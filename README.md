@@ -32,3 +32,8 @@ https://www.youtube.com/watch?v=Kmgo00avvEw
 https://www.youtube.com/watch?v=ZN37BwCai7Q
 https://docs.oracle.com/javase/tutorial/uiswing/layout/visual.html
 https://www.guru99.com/java-swing-gui.html
+
+
+JFrame => uygulama ekranı çerçevesini oluşturur.
+JPanel => uygulama ekranı çerçevesi içerisinde bir alan oluşturur. (bkz : div)
+JLabel => Yazı ekler
